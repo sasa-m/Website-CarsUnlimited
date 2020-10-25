@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type = "text/xsl" href = "cars.xsl"?>
+
+<cars>
+    <car id="1">
+        <manufacturer>Ferrari</manufacturer>
+        <model>348TB</model>
+        <year>1992</year>
+        <engine>3400cc</engine>
+        <gear>manual</gear>
+        <price>59000</price>
+    </car>
+    <car id="2">
+        <manufacturer>BMW</manufacturer>
+        <model>420D</model>
+        <year>2013</year>
+        <engine>1995cc</engine>
+        <gear>manual</gear>
+        <price>19800</price>
+    </car>
+    <car id="3">
+        <manufacturer>Lexus</manufacturer>
+        <model>RX400H</model>
+        <year>2008</year>
+        <engine>3311cc</engine>
+        <gear>automatic</gear>
+        <price>13500</price>
+    </car>
+    <car id="4">
+        <manufacturer>Mercedes</manufacturer>
+        <model>SLK250</model>
+        <year>2013</year>
+        <engine>2143cc</engine>
+        <gear>automatic</gear>
+        <price>19900</price>
+    </car>
+    <car id="5">
+        <manufacturer>Porsche</manufacturer>
+        <model>Macan</model>
+        <year>2014</year>
+        <engine>2967cc</engine>
+        <gear>automatic</gear>
+        <price>55000</price>
+    </car>
+    <car id="6">
+        <manufacturer>Mercedes</manufacturer>
+        <model>GLC250</model>
+        <year>2017</year>
+        <engine>2143cc</engine>
+        <gear>automatic</gear>
+        <price>49000</price>
+    </car>
+</cars>
